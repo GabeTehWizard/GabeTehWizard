@@ -3,8 +3,8 @@
 <h4 align="center"> Creating all forms of wondrous programs with a little bit of coding magic! </h4>
 <hr/>
 <h5> ✨ Front End Languages ✨ <h5/>
-![image](https://github.com/GabeTehWizard/GabeTehWizard/assets/104322949/87309402-1524-43e9-bf3f-a9f40ee574aa)
-
+<hr/>
+<h5> ✨ Back End Languages ✨ <h5/>
 <!--
 **GabeTehWizard/GabeTehWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
