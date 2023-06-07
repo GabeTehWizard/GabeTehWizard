@@ -1,7 +1,9 @@
 <h1 align="center" color="blue"> 🐱‍👤 Hi there, I'm Gabe! 🧙‍♂️ </h1>
 
-<h4> A little about me </h4>
-
+<h4 align="center"> Creating all forms of wondrous programs with a little bit of coding magic! </h4>
+<hr/>
+<h5> ✨ Front End Languages ✨ <h5/>
+ ![HTML 5 Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png)
 <!--
 **GabeTehWizard/GabeTehWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
