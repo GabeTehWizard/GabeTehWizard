@@ -1,4 +1,6 @@
-<p style="text-align:center;"> Hi there 👋 </p>
+<h1 align="center" color="blue"> 🐱‍👤 Hi there, I'm Gabe! 🧙‍♂️ </h1>
+
+<h4> A little about me </h4>
 
 <!--
 **GabeTehWizard/GabeTehWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
