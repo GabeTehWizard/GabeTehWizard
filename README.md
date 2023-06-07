@@ -2,9 +2,14 @@
 
 <h4 align="center"> Creating all forms of wondrous programs with a little bit of coding magic! </h4>
 <hr/>
-<h5> ✨ Front End Languages ✨ <h5/>
+<h5> 🎨 Front End Languages 🎨 <h5/>
+  <span> HTML 5 | CSS | JAVASCRIPT | JQUERY | XAML </span>
 <hr/>
-<h5> ✨ Back End Languages ✨ <h5/>
+<h5> 👨‍💻 Back End Languages 👨‍💻 <h5/>
+  <span> C# | JAVA | JAVASCRIPT | SQL | PYTHON </span>
+ <hr/>
+<h5> 👨‍💻 Frameworks 👨‍💻 <h5/>
+  <span> REACT | ASP.NET CORE | .NET MAUI | WEB FORMS | UWP </span>
 <!--
 **GabeTehWizard/GabeTehWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
